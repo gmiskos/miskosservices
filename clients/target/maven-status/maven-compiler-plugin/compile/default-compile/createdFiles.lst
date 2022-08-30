@@ -1,0 +1,4 @@
+com\miskoscode\clients\fraud\FraudClient.class
+com\miskoscode\clients\notification\NotificationClient.class
+com\miskoscode\clients\fraud\FraudCheckResponse.class
+com\miskoscode\clients\notification\NotificationRequest.class

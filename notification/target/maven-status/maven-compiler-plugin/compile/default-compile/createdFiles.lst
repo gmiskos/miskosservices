@@ -1,0 +1,8 @@
+com\miskoscode\notification\NotificationRepository.class
+com\miskoscode\notification\Notification.class
+com\miskoscode\notification\NotificationController.class
+com\miskoscode\notification\Notification$NotificationBuilder.class
+com\miskoscode\notification\NotificationApplication.class
+com\miskoscode\notification\NotificationConfig.class
+com\miskoscode\notification\NotificationService.class
+com\miskoscode\notification\rabbitmq\NotificationConsumer.class

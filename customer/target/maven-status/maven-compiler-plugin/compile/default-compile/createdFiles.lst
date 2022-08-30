@@ -1,0 +1,8 @@
+com\miskoscode\customer\CustomerRepository.class
+com\miskoscode\customer\CustomerController.class
+com\miskoscode\customer\CustomerService.class
+com\miskoscode\customer\CustomerRegistrationRequest.class
+com\miskoscode\customer\Customer$CustomerBuilder.class
+com\miskoscode\customer\CustomerApplication.class
+com\miskoscode\customer\Customer.class
+com\miskoscode\customer\CustomerConfig.class
