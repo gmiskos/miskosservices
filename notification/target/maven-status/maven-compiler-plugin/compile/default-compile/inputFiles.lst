@@ -1,7 +1,7 @@
-C:\apps\Spring & Hibernate\miskosservices\notification\src\main\java\com\miskoscode\notification\NotificationService.java
-C:\apps\Spring & Hibernate\miskosservices\notification\src\main\java\com\miskoscode\notification\Notification.java
-C:\apps\Spring & Hibernate\miskosservices\notification\src\main\java\com\miskoscode\notification\NotificationApplication.java
-C:\apps\Spring & Hibernate\miskosservices\notification\src\main\java\com\miskoscode\notification\NotificationConfig.java
-C:\apps\Spring & Hibernate\miskosservices\notification\src\main\java\com\miskoscode\notification\NotificationController.java
-C:\apps\Spring & Hibernate\miskosservices\notification\src\main\java\com\miskoscode\notification\NotificationRepository.java
-C:\apps\Spring & Hibernate\miskosservices\notification\src\main\java\com\miskoscode\notification\rabbitmq\NotificationConsumer.java
+C:\Programming\Java\miskosservices\notification\src\main\java\com\miskoscode\notification\Notification.java
+C:\Programming\Java\miskosservices\notification\src\main\java\com\miskoscode\notification\NotificationApplication.java
+C:\Programming\Java\miskosservices\notification\src\main\java\com\miskoscode\notification\NotificationService.java
+C:\Programming\Java\miskosservices\notification\src\main\java\com\miskoscode\notification\NotificationController.java
+C:\Programming\Java\miskosservices\notification\src\main\java\com\miskoscode\notification\NotificationRepository.java
+C:\Programming\Java\miskosservices\notification\src\main\java\com\miskoscode\notification\rabbitmq\NotificationConsumer.java
+C:\Programming\Java\miskosservices\notification\src\main\java\com\miskoscode\notification\NotificationConfig.java
